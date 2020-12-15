@@ -5,7 +5,7 @@ If you already installed GoldenDict, Anki, LWT , LWT anki note type, skip 1-> 4,
 2. Install GoldenDict
 3. Install Anki, setup Anki Connect addon at https://ankiweb.net/shared/info/2055492159
 4. Install LWT note type for Anki
-5. Download ReadingLwt.rar at https://github.com/vubao108/ReadingLWT/blob/master/ReadingLwt.rar
+5. Download ReadingLwt.rar at https://github.com/vubao108/ReadingLWT
   5.1 Extract and run : ReadingLwt.exe as administrator
   5.2. Configure Anki Deck name which to add card
   5.3 Configure LWT dictionary 1 to point to address: 127.0.0.1:1082/Dict/### or 127.0.0.1:1082/Dict02/###
