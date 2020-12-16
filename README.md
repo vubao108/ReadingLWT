@@ -9,7 +9,7 @@ If you already installed GoldenDict, Anki, LWT , LWT anki note type, skip 1-> 4,
 - Extract and run : ReadingLwt.exe as administrator
 - Configure Anki Deck name which to add card
 - Configure LWT dictionary 1 to point to address: 127.0.0.1:1082/Dict/### or 127.0.0.1:1082/Dict02/###
-- Configure Phonetic Pattern as following string to detect phonetic field: \W([\[/].+?[\]/]) 
+- Configure Phonetic Pattern as following string to detect phonetic field: \W([\\[/].+?[\\]/]) 
 
 <img src="https://github.com/vubao108/ReadingLWT/blob/master/lwtReadingGuide.png"> 
 - Note: require Net FrameWork 4.5.2 : https://www.microsoft.com/en-us/download/details.aspx?id=42642
