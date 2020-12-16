@@ -14,7 +14,7 @@ If you already installed GoldenDict, Anki, LWT , LWT anki note type, skip 1-> 4,
 Usage:
 Ctr X to copy text in current Dictionary
 Crl B to copy text in all Dictionary.
-Watch tutorial Video at: 
+Watch tutorial Video at: https://youtu.be/jTsu-IOriW4
   
   
   
