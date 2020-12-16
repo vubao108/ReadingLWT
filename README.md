@@ -12,8 +12,8 @@ If you already installed GoldenDict, Anki, LWT , LWT anki note type, skip 1-> 4,
 - Note: require Net FrameWork 4.5.2 : https://www.microsoft.com/en-us/download/details.aspx?id=42642
 
 Usage:
-- Ctr X to copy text in current Dictionary
-- Crl B to copy text in all Dictionary.
+- Ctr X to copy text in current Dictionary, put selected text to Translation field in LWT, and add new LWT card to Anki with text in current Dictionary.
+- Crl B to copy text in all Dictionary, put selected text to Translation field in LWT, and add new LWT card with all text in all Dictionary
 - Watch tutorial Video at: https://youtu.be/jTsu-IOriW4
   
   
