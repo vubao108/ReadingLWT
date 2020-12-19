@@ -12,6 +12,7 @@ If you already installed GoldenDict, Anki, LWT , LWT anki note type, skip 1-> 4,
 - Configure Phonetic Pattern as following string to detect phonetic field: \W([\\[/].+?[\\]/]) 
 
 <img src="https://github.com/vubao108/ReadingLWT/blob/master/lwtReadingGuide.png"> 
+<img src="https://github.com/vubao108/ReadingLWT/blob/master/lwtReadingGuide02.png"> 
 - Note: require Net FrameWork 4.5.2 : https://www.microsoft.com/en-us/download/details.aspx?id=42642
 
 
