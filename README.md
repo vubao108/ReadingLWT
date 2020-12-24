@@ -13,13 +13,17 @@ If you already installed GoldenDict, Anki, LWT , LWT anki note type, skip 1-> 4,
 
 <img src="https://github.com/vubao108/ReadingLWT/blob/master/lwtReadingGuide.png"> 
 <img src="https://github.com/vubao108/ReadingLWT/blob/master/lwtReadingGuide02.png"> 
+add custom hotkey:
+<img src="https://github.com/vubao108/ReadingLWT/blob/master/customhotkey_guide.png">
 - Note: require Net FrameWork 4.5.2 : https://www.microsoft.com/en-us/download/details.aspx?id=42642
 
 
 Usage:
-- Ctr X to copy text in current Dictionary, put selected text to Translation field in LWT, and add new LWT card to Anki with text in current Dictionary.
-- Crl B to copy text in all Dictionary, put selected text to Translation field in LWT, and add new LWT card with all text in all Dictionary
-- Watch tutorial Video at: https://youtu.be/jTsu-IOriW4
+- F2 to copy text in current Dictionary, put selected text to Translation field in LWT and Anki field
+- F3 to copy text in current Dictionary, put selected text to Translation field in LWT, and add new LWT card with all text in current Dictionary
+- Watch tutorial Video at:  
+1. https://youtu.be/jTsu-IOriW4
+2. https://youtu.be/l9S_tW6mMls
   
   
   
