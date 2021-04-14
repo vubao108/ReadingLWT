@@ -4,8 +4,9 @@ If you already installed GoldenDict, Anki, LWT , LWT anki note type, skip 1-> 4,
 1. Setup LWT base on tutorial at : https://learning-with-texts.sourceforge.io/
 2. Install GoldenDict
 3. Install Anki, setup Anki Connect addon at https://ankiweb.net/shared/info/2055492159
-4. Install LWT note type for Anki
-5. Download ReadingLwt.rar at https://github.com/vubao108/ReadingLWT
+ After install anki connect, close and reopen anki.
+5. Install LWT note type for Anki: open Anki and double click install_lwt_note_type.apkg  to install lwt note type.
+6. Download lastest version ReadingLwt.rar at https://github.com/vubao108/ReadingLWT
 - Extract and run : ReadingLwt.exe as administrator
 - Configure Anki Deck name which to add card
 - Configure LWT dictionary 1 to point to address: 127.0.0.1:1082/Dict/### or 127.0.0.1:1082/Dict02/###
@@ -18,13 +19,17 @@ add custom hotkey:
 - Note: require Net FrameWork 4.5.2 : https://www.microsoft.com/en-us/download/details.aspx?id=42642
 
 
-Usage:
+Usage :
+If you read directly on ReadingLWT:
 - F2 to copy text in current Dictionary, put selected text to Translation field in LWT and Anki field
-- F3 to copy text in current Dictionary, put selected text to Translation field in LWT, and add new LWT card with all text in current Dictionary
+
+If you read on web, pdf or other:
+ - Select word need to search dictionary, press F1 to open word in goldendict.
+ - F2 to copy selected text in current Dictionary on goldendict , it will put selected text to Translation field in LWT and add card to Anki.
 - Watch tutorial Video at:  
 1. https://youtu.be/jTsu-IOriW4
 2. https://youtu.be/l9S_tW6mMls
-  
+ 
   
   
   
