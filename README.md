@@ -1,7 +1,7 @@
 # ReadingLWT
 ReadingLWT is a client app on Window to help you search word in GoldenDict, copy translated word, parse text in dictionary and add to Anki easilly and quickly.
 If you already installed GoldenDict, Anki, LWT , LWT anki note type, skip 1-> 4, and start at 5.
-<br><b>Note: From version 3.21, If you do not install LWT, you can still use ReadingLWT to create anki card quickly </b>
+<br><b>Note: From version 3.21, If you do not install LWT, you can still </b> <a href="https://youtu.be/Z0J64Mf1_Qk">use ReadingLWT to create anki card quickly </a>
 1. (Optional)  Setup LWT base on tutorial at : https://learning-with-texts.sourceforge.io/
 If you don't like LWT, you can skip step 1, just use ReadingLWT to quickly search dict and create anki card.
 2. Install GoldenDict
